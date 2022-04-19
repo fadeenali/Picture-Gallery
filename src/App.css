@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+
+* {
+  margin: 0;
+  position: 0;
+  box-sizing: border-box;
+}
+
+.main_container h1 {
+  margin: 50px 0;
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+
+}
